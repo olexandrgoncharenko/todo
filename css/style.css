@@ -177,12 +177,6 @@ body{
     }
 }
 @media(max-width: 640px) {
-    .todo {
-        padding: 17px 0 20px;
-    }
-    .todo__logo {
-        margin: 0px auto 25px;
-    }
     .todo__add {
         margin: 0 auto;
         gap: 6px;
@@ -199,14 +193,5 @@ body{
     }
     .tasks__task {
         gap: 10px;
-    }
-}
-@media(max-width: 490px) {
-    .todo__logo {
-        margin: 0px auto 20px;
-    }
-    .tasks__task {
-        gap: 8px;
-        padding: 11px;
     }
 }
